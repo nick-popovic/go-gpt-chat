@@ -1,0 +1,10 @@
+# Microsoft Office files
+*.docx
+*.xlsx
+
+# In case of temp/lock files
+~$*.docx
+~$*.xlsx
+
+# ignore .txt files
+*.txt
